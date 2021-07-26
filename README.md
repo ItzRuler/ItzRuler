@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I am DJ(ItzRuler), and I am a amateur programmer and a gaming youtuber.
+### I'm currently learning python & also html with css on my own.
 <!--
 **ItzRuler/ItzRuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
